@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="err_network_connection">Connection error</string>
+    <string name="err_internal_server">Internal server error</string>
+    <string name="err_response_parsing">Oops! Something went wrong! Help us improve your experience by notifying our team.</string>
+    <string name="err_not_found">The application has encountered an unknown error. Please try again later.</string>
+</resources>
